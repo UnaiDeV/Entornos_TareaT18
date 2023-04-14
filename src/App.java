@@ -9,7 +9,12 @@ public class App {
             // RAMA HOTFIX V1
             // RAMA RELEASE V1       // RAMA RELEASE V2
             // RAMA DEVELOP V1      // RAMA DEVELOP V2
-            // RAMA FEATURE1 V1        // RAMA FEATURE1 V2    
+            // RAMA FEATURE1 V1        // RAMA FEATURE1 V2  
+            
+            // COMANDOS IMPORTANTES UTILIZADOS
+            // GIT CLONE (+LINK DEL REPOSITORIO) PARA CLONAR EL CONTENIDO EN UN REPOSITORIO
+            // CREATE BRANCH PARA CRAER UNA NUEVA RAMA
+            // MERGE BRANCH PARA FUSIONAR DOS RAMAS EN UNA
         
         Scanner lectura = new Scanner(System.in);
                 System.out.println("Introduce un número de euros para convertir");
