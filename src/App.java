@@ -6,6 +6,8 @@ public class App {
             // RAMA MASTER V1
 
             // RAMA DEVELOP V1
+
+            // RAMA FEATURE2 V1
         
         Scanner lectura = new Scanner(System.in);
                 System.out.println("Introduce un número de euros para convertir");
