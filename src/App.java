@@ -7,7 +7,7 @@ public class App {
 
             // RAMA DEVELOP V1      // RAMA DEVELOP V2           // RAMA DEVELOP V3          // RAMA DEVELOP V4
             // RAMA HOTFIX V1
-            // RAMA RELEASE V1
+            // RAMA RELEASE V1       // RAMA RELEASE V2
             // RAMA DEVELOP V1      // RAMA DEVELOP V2
             // RAMA FEATURE1 V1        // RAMA FEATURE1 V2    
         
