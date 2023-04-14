@@ -15,6 +15,7 @@ public class App {
             // GIT CLONE (+LINK DEL REPOSITORIO) PARA CLONAR EL CONTENIDO EN UN REPOSITORIO
             // CREATE BRANCH PARA CRAER UNA NUEVA RAMA
             // MERGE BRANCH PARA FUSIONAR DOS RAMAS EN UNA
+            // COMMIT GUARDA EN LOCAL LO QUE HAYAMOS MODIFICADO Y CON EL PUSH LO SUBIMOS A LA NUBE
         
         Scanner lectura = new Scanner(System.in);
                 System.out.println("Introduce un número de euros para convertir");
