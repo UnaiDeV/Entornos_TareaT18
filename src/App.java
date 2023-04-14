@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class App {
         public static void main(String[] args) throws Exception {
         
-            // RAMA MASTER V1
+            // RAMA MASTER V1       // RAMA MASTER V2
             // RAMA HOTFIX V1
 
         
